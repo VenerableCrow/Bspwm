@@ -1,0 +1,2 @@
+# Bspwm
+Dotfiles bspwm
